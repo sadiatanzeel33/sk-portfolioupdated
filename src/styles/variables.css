@@ -1,0 +1,12 @@
+/* styles/variables.css */
+/* src/styles/variables.css */
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --background-color: #f4f4f9;
+  --text-color: #333;
+  --body-font: 'Poppins', sans-serif;
+  --transition-duration: 0.3s;
+}
+
+  
